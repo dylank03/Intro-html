@@ -1,18 +1,34 @@
 *{
-    background-color: #1e1f21;}
+    background-color: #1e1f21;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
 #Terminator{
     border-radius: 40%;
     border: 5px solid red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#suited{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 h1,h2{
-    color: red
+    text-align: center;
+    color: red;
 }
 a{
-    font-size: 15px
+    font-size: 15px;
 }
 ol{
-    color:aquamarine
+    color:aquamarine;
 }
 ul{
     color: aquamarine;
+}
+p{
+    color: grey;
 }
